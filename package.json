@@ -27,7 +27,7 @@
   "dependencies": {
     "del": "^3.0.0",
     "extract-zip": "^1.6.7",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.5",
     "request": "^2.88.0",
     "tcp-port-used": "^1.0.1"
   }
