@@ -28,7 +28,7 @@
     "del": "^3.0.0",
     "extract-zip": "^1.6.7",
     "mkdirp": "^0.5.1",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "tcp-port-used": "^1.0.1"
   }
 }
